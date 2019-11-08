@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0  180px;
+    overflow: hidden;
+    margin-top: 60px;
+}
+
+.interface {
+    z-index: 99;
+}
